@@ -23,7 +23,7 @@ pnpm add the_loader
 
 Somewhere in your project (e.g a main.js/main.ts file):
 ```javascript
-import * as Loader from 'the-loader'
+import 'the-loader'
 ```
 
 Use the component:
