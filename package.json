@@ -1,8 +1,8 @@
 {
   "name": "the_loader",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "type": "module",
-  "main": "main.js",
+  "main": "main.ts",
   "author": "Luke Ruokaismaki",
   "license": "MIT",
   "scripts": {
